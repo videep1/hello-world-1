@@ -3,7 +3,7 @@
 #include<stdio.h>
 int main()
 {
-  printf("Hello! World");
+  printf("\n\"Hello! World\"\n");//hello world program
   return 0;
 }
-I have to learn ds and algo 
+I have to learn datastrutres and algorithms 
